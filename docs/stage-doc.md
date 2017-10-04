@@ -27,6 +27,8 @@ __IMPORTANTE__: Remplace el __customerId__, __dealId__ y __productId__ con los q
 </script>
 ```
 
+{% include snippet.md %}
+
 Luego, usted querrá que ciertos botones o links de su sitio inicien los pasos para que sus clientes realicen las reservas.  Para ello deberá agregar un poco de texto en ellos, del siguiente modo:
 
 Pongamos como ejemplo el siguiente botón:
